@@ -18,7 +18,7 @@ I worked on this project by following the Codebasics Power BI Course, Link to th
 
 	Project Charter
 
-**Power BI techniques Learnt**
+# Power BI techniques Learnt
 
 •	What are all the questions should be asked before staring the project
 
@@ -56,7 +56,7 @@ I worked on this project by following the Codebasics Power BI Course, Link to th
 
 •	And more…
 
-**Business related terms**
+# Business related terms
 
 	Gross price
 
@@ -86,7 +86,7 @@ I worked on this project by following the Codebasics Power BI Course, Link to th
 
 	Consumer
 
-**Company’s back ground**
+# Company’s back ground
 
 AtliQ hardware is a company which has grown vastly in the recent years, and opened business all over the globe. It is a company which sells, computer and computer accessories through three mediums/channel
 
@@ -99,7 +99,7 @@ AtliQ hardware is a company which has grown vastly in the recent years, and open
 Recently the company has faced a unforeseen loss by opening store in America based on the surveys, intuition and some excel analysis and also the company’s competitors has handful of analytics team to perform analysis and make data driven decision. So, the AltiQ hardware has no other option other than building their analytics team for data driven insights and decisions in the future to survive better in the industry.
 Project kick off session, where you should get clear of for what and why this project and all other questions you have with regards to the project
 
-**Questions to ask before starting with dashboard**
+# Questions to ask before starting with dashboard
 
 	What is the objective of building this Power BI  dashboard?
 
@@ -132,9 +132,9 @@ Dimension table : It will have the static data like details of customer and prod
 
 Fact table : It will have the data about the transactions
 
-gdb041:
+**gdb041:**
 
-dim_customer
+**dim_customer**
 
 •	27 distinct markets (ex India, USA, spain)
 
@@ -154,7 +154,7 @@ Three channels
 
 •	Distributors
 
-dim_market
+**dim_market**
 
 •	27 distinct markets (ex India, USA, spain)
 
@@ -170,7 +170,7 @@ dim_market
 
 •	LATAM
 
-dim_product
+**dim_product**
 
 •	Divisions
 
@@ -223,11 +223,11 @@ This table is more or less is same as fact_forecase_monthly table, but the last 
 
 •	Post_invoice_deductions – Post invoice deductions and other deductions details
 
-**Importing data into Power BI**
+# Importing data into Power BI
 
 As the database is MySQL in this project, we need to import the datasets from Mysql database to Power BI  by providing the Database access credential
 
-**Data Model**
+# Data Model
 
 •	Data modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model.
 
@@ -237,7 +237,7 @@ As the database is MySQL in this project, we need to import the datasets from My
 
 •	In this project, we have followed Snowfall data modeling method.
 
-Dashboard Designing
+# Dashboard Designing
 
 Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required
 
