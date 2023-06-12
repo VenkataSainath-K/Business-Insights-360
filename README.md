@@ -21,22 +21,39 @@ I worked on this project by following the Codebasics Power BI Course, Link to th
 **Power BI techniques Learnt**
 
 •	What are all the questions should be asked before staring the project
+
 •	Creating calculated columns
+
 •	Creating measure using DAX language
+
 •	Data Modelling
+
 •	Using Bookmarks to switch between two visuals
+
 •	Page navigation with buttons
+
 •	Using divide function to prevent zero division errors
+
 •	creating date table using m language
+
 •	Dynamic titles based on the applied filters
+
 •	Using KPI indicators
+
 •	Conditional formatting the values in visuals using icons or background color
+
 •	Data validation techniques
+
 •	Power BI services
+
 •	Publishing reports to Power BI  services
+
 •	Setting up personal gateway to set up the auto refresh of data
+
 •	Power BI  App creation
+
 •	Collaboration, workspace, access permissions in Power BI  services
+
 •	And more…
 
 **Business related terms**
